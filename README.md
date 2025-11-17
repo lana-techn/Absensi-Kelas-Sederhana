@@ -320,6 +320,20 @@ POST /absensi            - Submit absensi
 
 ## 📸 Screenshots
 
+### Logo & Branding
+
+**Logo Aplikasi**
+![Logo](public/img/logo.png)
+
+**Logo Judul Desktop**
+![Logo Title Desktop](public/img/logo-title-dekstop.png)
+
+**Logo Judul Mobile**
+![Logo Title Mobile](public/img/logo-title-phone.png)
+
+**Title Banner**
+![Title](public/img/title.png)
+
 ### Halaman Login
 ![Login Page](public/img/logo-title-dekstop.png)
 
@@ -331,17 +345,32 @@ POST /absensi            - Submit absensi
 
 ### Dashboard & Main Pages
 
-![Dashboard Screenshot 1](public/img/png-dekstop/1.png)
+**Dashboard Screenshot 1 - Overview**
+![Dashboard 1](public/img/png-dekstop/1.png)
 
-![Dashboard Screenshot 2](public/img/png-dekstop/2.png)
+**Dashboard Screenshot 2 - Statistik & Menu**
+![Dashboard 2](public/img/png-dekstop/2.png)
 
-![Dashboard Screenshot 3](public/img/png-dekstop/3.png)
+**Dashboard Screenshot 3 - Charts & Reports**
+![Dashboard 3](public/img/png-dekstop/3.png)
 
 **Fitur:**
 - Chart.js untuk visualisasi data
 - Responsive grid layout
 - Real-time data updates
 - Statistik lengkap kehadiran siswa
+- Quick access menu untuk semua fitur
+
+### Halaman Tambahan
+
+**Teacher Training**
+![Teacher Training](public/img/png/teacher-training.png)
+
+**Talk Show**
+![Talk Show](public/img/png/talkshow.png)
+
+**Goes to Japan**
+![Goes to Japan](public/img/png/goes-to-japan.png)
 
 ### Dashboard
 ```
