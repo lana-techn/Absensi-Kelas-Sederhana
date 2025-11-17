@@ -321,23 +321,27 @@ POST /absensi            - Submit absensi
 ## 📸 Screenshots
 
 ### Halaman Login
-```
-┌─────────────────────────────────────────┐
-│                                         │
-│     [Logo]    │  Log in                 │
-│               │  Username: _________    │
-│               │  Password:  _________   │
-│               │  ☐ Show Password        │
-│               │  [Login Button]         │
-│                                         │
-└─────────────────────────────────────────┘
-```
+![Login Page](public/img/logo-title-dekstop.png)
 
 **Layout:**
 - Responsive design (Mobile & Desktop)
 - Bootstrap 5 UI framework
 - Custom styling dengan CSS
 - Form validation
+
+### Dashboard & Main Pages
+
+![Dashboard Screenshot 1](public/img/png-dekstop/1.png)
+
+![Dashboard Screenshot 2](public/img/png-dekstop/2.png)
+
+![Dashboard Screenshot 3](public/img/png-dekstop/3.png)
+
+**Fitur:**
+- Chart.js untuk visualisasi data
+- Responsive grid layout
+- Real-time data updates
+- Statistik lengkap kehadiran siswa
 
 ### Dashboard
 ```
