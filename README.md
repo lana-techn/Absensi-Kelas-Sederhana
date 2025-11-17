@@ -320,22 +320,8 @@ POST /absensi            - Submit absensi
 
 ## 📸 Screenshots
 
-### Logo & Branding
-
-**Logo Aplikasi**
-![Logo](public/img/logo.png)
-
-**Logo Judul Desktop**
-![Logo Title Desktop](public/img/logo-title-dekstop.png)
-
-**Logo Judul Mobile**
-![Logo Title Mobile](public/img/logo-title-phone.png)
-
-**Title Banner**
-![Title](public/img/title.png)
-
-### Halaman Login
-![Login Page](public/img/logo-title-dekstop.png)
+### Halaman Login - 17:34:40
+![Login Page](public/img/Screenshot%202025-11-17%20at%2017.34.40.png)
 
 **Layout:**
 - Responsive design (Mobile & Desktop)
@@ -343,34 +329,31 @@ POST /absensi            - Submit absensi
 - Custom styling dengan CSS
 - Form validation
 
-### Dashboard & Main Pages
+### Dashboard & Main Features
 
-**Dashboard Screenshot 1 - Overview**
-![Dashboard 1](public/img/png-dekstop/1.png)
+**Screenshot 1 - 17:37:31 (Dashboard Utama)**
+![Dashboard Main](public/img/Screenshot%202025-11-17%20at%2017.37.31.png)
 
-**Dashboard Screenshot 2 - Statistik & Menu**
-![Dashboard 2](public/img/png-dekstop/2.png)
+**Screenshot 2 - 17:37:44 (Menu Kelas)**
+![Kelas Management](public/img/Screenshot%202025-11-17%20at%2017.37.44.png)
 
-**Dashboard Screenshot 3 - Charts & Reports**
-![Dashboard 3](public/img/png-dekstop/3.png)
+**Screenshot 3 - 17:37:56 (Manajemen Siswa)**
+![Siswa Management](public/img/Screenshot%202025-11-17%20at%2017.37.56.png)
 
-**Fitur:**
-- Chart.js untuk visualisasi data
-- Responsive grid layout
+**Screenshot 4 - 17:38:09 (Input Absensi)**
+![Input Absensi](public/img/Screenshot%202025-11-17%20at%2017.38.09.png)
+
+**Screenshot 5 - 17:38:15 (Edit Kehadiran)**
+![Edit Kehadiran](public/img/Screenshot%202025-11-17%20at%2017.38.15.png)
+
+**Fitur yang ditampilkan:**
+- Dashboard dengan chart kehadiran
+- Manajemen kelas lengkap
+- Manajemen data siswa
+- Input & tracking kehadiran
+- Edit history kehadiran
+- Responsive design
 - Real-time data updates
-- Statistik lengkap kehadiran siswa
-- Quick access menu untuk semua fitur
-
-### Halaman Tambahan
-
-**Teacher Training**
-![Teacher Training](public/img/png/teacher-training.png)
-
-**Talk Show**
-![Talk Show](public/img/png/talkshow.png)
-
-**Goes to Japan**
-![Goes to Japan](public/img/png/goes-to-japan.png)
 
 ### Dashboard
 ```
